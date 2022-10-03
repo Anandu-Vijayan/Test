@@ -1,0 +1,22 @@
+.compose{
+    display: flex;
+    font-size: medium;
+    margin-left: 88px;
+    margin-top: 50px;
+}
+.team{
+    display: flex;
+    
+    padding-left: 20px ;
+
+
+}
+.name{
+    display: flex;
+    justify-content:space-evenly;
+}
+.Right{
+    display:flex-end;
+    
+    
+}

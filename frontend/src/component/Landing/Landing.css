@@ -1,0 +1,14 @@
+.over{
+    display: flex;
+    justify-content: start;
+    font-size: large;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.box{
+    margin-left: 100px;
+    display: flex;
+    justify-content:center;
+    justify-content:space-evenly;
+
+}
